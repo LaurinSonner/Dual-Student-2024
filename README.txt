@@ -19,4 +19,4 @@ Beispielverwendung:
     Klicke auf "Apply Filters", um die Tabelle entsprechend zu filtern.
     Klicke auf eine Spaltenüberschrift, um die Tabelle nach dieser Spalte zu sortieren.
 
-Hinweis: Vergewissere dich, dass du die erforderlichen Abhängigkeiten installiert hast, bevor du den Webserver startest
+Hinweis: Vergewissere dich, dass du die erforderlichen Abhängigkeiten (Node.js, Express.js, sqlite3, helmet und chart.js) installiert hast, bevor du den Webserver startest
